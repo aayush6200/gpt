@@ -1,7 +1,7 @@
 project_title = 'teaching_app'
 
 Objective:
-The app will use help of LLM and suggest user the next conversation user can talk about
+The app will use help of LLM and help user to know about different positions available at amazon depending upon his/her qualifications.
 
 Constraints:
 - As LLM-GPT- is used for generating conversation from backend, some conversations might not be up to the point
@@ -9,7 +9,7 @@ Constraints:
 Backend:
 - Languages: Python
 - Tools/Frameworks: Django
-- Packages downloaded: watchdog, auto_reload,Djongo(connects Django with MongoDB)
+- Packages downloaded: Djongo(connects Django with MongoDB)
 - Database: MongoDB
 
 Frontend:
