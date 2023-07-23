@@ -19,7 +19,7 @@ Frontend:
 
 
 Architecture:
-            Authentication: It is done using django built in authentication system,login and signup will be done using "MERN STRACK" as microservice. 
+            Authentication: Login and signup will be done using "MERN STRACK" as microservice. 
                                     Follow this link for more info: https://github.com/aayush6200/mern-auth
 
             Authorization:For Authorization and accessing the app, all the associates will be manually registered on Django
