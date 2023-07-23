@@ -28,3 +28,7 @@ Architecture:
     
             DB for authorization and authorization(SQL):
                                 database will register all users 
+
+
+
+
